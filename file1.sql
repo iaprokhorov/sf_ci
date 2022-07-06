@@ -1,1 +1,1 @@
-select * from full_region fr limit 5;
+select * from full_region fr limit 10;
